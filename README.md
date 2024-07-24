@@ -6,13 +6,13 @@ Pig Game is a classic dice game where players take turns rolling dice and accumu
 
 ## Features
 
-Roll dice to accumulate points
+1. Roll dice to accumulate points
 
-Keep track of scores for multiple players
+2. Keep track of scores for multiple players
 
-Option to hold points or roll again
+3. Option to hold points or roll again
 
-Interactive user interface
+4. Interactive user interface
 
 ## Technologies Used
 
